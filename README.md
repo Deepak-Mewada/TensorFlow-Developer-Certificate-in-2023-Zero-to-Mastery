@@ -13,3 +13,11 @@ Based on this course : https://www.udemy.com/course/tensorflow-developer-certifi
 6. Save and reload your pretarained model
 
 
+### Common Ways to improve the model
+1. Adding more layers
+2. Adding more hidden units
+3. Changing the activation function
+4. Changin gthe optimizer
+5. Chnaging the learning rate
+6. Fitting for more epochs
+7. Fitting on more data
