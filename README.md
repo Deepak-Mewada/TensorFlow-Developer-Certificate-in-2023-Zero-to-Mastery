@@ -21,3 +21,6 @@ Based on this course : https://www.udemy.com/course/tensorflow-developer-certifi
 5. Chnaging the learning rate
 6. Fitting for more epochs
 7. Fitting on more data
+
+
+> pd.get_dummies()
