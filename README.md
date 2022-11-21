@@ -24,3 +24,11 @@ Based on this course : https://www.udemy.com/course/tensorflow-developer-certifi
 
 
 > pd.get_dummies()
+
+
+Reading material:
+1. 
+2.
+3. https://cs231n.github.io/neural-networks-case-study/
+4. https://madewithml.com/courses/foundations/neural-networks/
+5. 
