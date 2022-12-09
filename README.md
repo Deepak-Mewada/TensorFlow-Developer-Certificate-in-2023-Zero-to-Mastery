@@ -32,6 +32,7 @@ Reading material:
 3. https://cs231n.github.io/neural-networks-case-study/
 4. https://madewithml.com/courses/foundations/neural-networks/
 5. https://www.elementsofai.com/
+6. Forecasting: Principles and Practice: https://otexts.com/fpp3/
 
 
 
